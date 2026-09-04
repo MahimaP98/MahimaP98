@@ -1,6 +1,6 @@
 # Hi, I'm Mahima Prajapati 👋
 
-**Software Developer transitioning to Java Full-Stack (Spring Boot + React) | 3+ Years across Frontend (Angular), API Integration & Backend Scripting(Product)**
+**Software Developer transitioning to Java Full-Stack (Spring Boot + React) | 3+ Years across Frontend (Angular), API Integration & Backend Scripting(Product Developer role)**
 
 I've spent 3+ years building production frontend systems in banking and healthcare tech. I'm now going deep on backend development — Spring Boot, system design, and full-stack architecture — while applying core Java, DSA, and stream-based problem solving through daily practice.
 
