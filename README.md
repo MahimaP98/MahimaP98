@@ -18,12 +18,8 @@ I've spent 3+ years building production frontend systems in banking and healthca
 **Tools:** Git, IntelliJ IDEA, VS Code, Postman
 
 ## 📌 Pinned Projects
-- **Task & Project Management System** — Spring Boot + React full-stack app *(to be done)*
 - **[Cookify](https://github.com/MahimaP98/cookify)** — Recipe-sharing platform (JS, HTML, CSS, Bootstrap)
-- **[java-dsa-practice](https://github.com/MahimaP98/java-dsa-practice)** — Daily Java, DSA, and Spring Boot learning log
 - **Expense Splitter** — Java console app: OOP(to be done).
-- **Library Management System** — Java console app(to be done).
-- **Task Scheduler** — Java console app(to be done).
 
 ## 💼 Background
 3+ years as a Software Developer at New India Cooperative Bank Ltd (Junior Software Engineer → Product Developer), building Angular-based document management, KYC, and banking transaction modules with API integration in Modifying Banking Product Interface. Prior experience includes interface scripting, database modifications, and product interface testing for HL7 healthcare messaging systems at eClinicalWorks.
