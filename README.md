@@ -6,7 +6,6 @@ I've spent 3+ years building production frontend systems in banking and healthca
 
 ## 🎯 Currently
 - 🔨 Building a full-stack Task & Project Management System — Spring Boot + React + MySQL
-- 📚 Daily Java/DSA revision and practice — see [`java-dsa-practice`](https://github.com/MahimaP98/java-dsa-practice)
 - 🌱 Learning: Spring Boot, React, and revisiting Java fundamentals in depth
 
 ## 🛠️ Tech Stack
@@ -22,7 +21,7 @@ I've spent 3+ years building production frontend systems in banking and healthca
 - **Expense Splitter** — Java console app: OOP(to be done).
 
 ## 💼 Background
-3+ years as a Software Developer at New India Cooperative Bank Ltd (Junior Software Engineer → Product Developer), building Angular-based document management, KYC, and banking transaction modules with API integration in Modifying Banking Product Interface. Prior experience includes interface scripting, database modifications, and product interface testing for HL7 healthcare messaging systems at eClinicalWorks.
+3+ years as a Software Developer at New India Cooperative Bank Ltd (Junior Software Engineer → Product Developer), built Angular-based document management, KYC, and banking transaction modules with API integration in Modifying Banking Product Interface. Prior experience includes interface scripting, database modifications, and product interface testing for HL7 healthcare messaging systems at eClinicalWorks.
 
 ## 📫 Connect
 - LinkedIn: [linkedin.com/in/mahimaprajapati98](https://www.linkedin.com/in/mahimaprajapati98)
