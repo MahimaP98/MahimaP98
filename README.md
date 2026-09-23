@@ -6,13 +6,13 @@ I've spent 3+ years building production frontend systems in banking and healthca
 
 ## 🎯 Currently
 - 🔨 Building a full-stack Task & Project Management System — Spring Boot + React + MySQL
-- 🌱 Learning: Spring Boot, React, and revisiting Java fundamentals in depth
+- 🌱 Learning: Java, React, and Practicing Challenges through Fronted Mentor Challenges. 
 
 ## 🛠️ Tech Stack
 
 **Languages:** Java, JavaScript, TypeScript
 **Backend (in progress):** Spring Boot, REST APIs
-**Frontend (in progress):** Angular, React (learning), HTML5, CSS3, Bootstrap
+**Frontend (in progress):** Angular, React (learning), HTML5, CSS3
 **Database:** MySQL
 **Tools:** Git, IntelliJ IDEA, VS Code, Postman
 
