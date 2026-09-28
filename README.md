@@ -1,11 +1,11 @@
 # Hi, I'm Mahima Prajapati 👋
 
-**Software Developer transitioning to Java Full-Stack (Spring Boot + React) | 3+ Years across Frontend (Angular), API Integration & Backend Scripting(Product Developer role)**
+**Software Developer transitioning to Java Full-Stack (Spring Boot + React/Angular) | 3+ Years across Frontend (Angular), API Integration & Backend Scripting(Product Developer role)**
 
-I've spent 3+ years building production frontend systems in banking and healthcare tech. I'm now going deep on backend development — Spring Boot, system design, and full-stack architecture — while applying core Java, DSA, and stream-based problem solving through daily practice.
+I've spent 3+ years building production frontend systems in banking and healthcare tech. I'm now going deep on backend development — Spring Boot, system design, and full-stack architecture.
 
 ## 🎯 Currently
-- 🔨 Building a full-stack Task & Project Management System — Spring Boot + React + MySQL
+- 🔨 Building a full-stack Task & Project Management System — Spring Boot + React/Angular + MySQL
 - 🌱 Learning: Java, React, and Practicing Challenges through Fronted Mentor Challenges. 
 
 ## 🛠️ Tech Stack
@@ -21,7 +21,7 @@ I've spent 3+ years building production frontend systems in banking and healthca
 - **Expense Splitter** — Java console app: OOP(to be done).
 
 ## 💼 Background
-3+ years as a Software Developer at New India Cooperative Bank Ltd (Junior Software Engineer → Product Developer), built Angular-based document management, KYC, and banking transaction modules with API integration in Modifying Banking Product Interface. Prior experience includes interface scripting, database modifications, and product interface testing for HL7 healthcare messaging systems at eClinicalWorks.
+3+ years as a Software Developer, previously at New India Cooperative Bank Ltd (Junior Software Engineer → Product Developer), built Angular-based document management, KYC, and banking transaction modules with API integration in Modifying Banking Product Interface. Prior experience includes interface scripting, database modifications, and product interface testing for HL7 healthcare messaging systems at eClinicalWorks.
 
 ## 📫 Connect
 - LinkedIn: [linkedin.com/in/mahimaprajapati98](https://www.linkedin.com/in/mahimaprajapati98)
