@@ -1,24 +1,24 @@
 # Hi, I'm Mahima Prajapati 👋
 
-**Software Developer transitioning to Java Full-Stack (Spring Boot + React/Angular) | 3+ Years across Frontend (Angular), API Integration & Backend Scripting(Product Developer role)**
+**Software Developer transitioning to Java Full-Stack (Spring Boot + React) | 3+ Years across Frontend (Angular), API Integration & Backend Scripting(Product Developer role)**
 
 I've spent 3+ years building production frontend systems in banking and healthcare tech. I'm now going deep on backend development — Spring Boot, system design, and full-stack architecture.
 
 ## 🎯 Currently
-- 🔨 Building a full-stack Task & Project Management System — Spring Boot + React/Angular + MySQL
-- 🌱 Learning: Java, React, and Practicing Challenges through Fronted Mentor Challenges. 
+- 🔨 Building a full-stack Task & Project Management System — Spring Boot + React + MySQL
+- 🌱 Learning: Java, React 
 
 ## 🛠️ Tech Stack
 
 **Languages:** Java, JavaScript, TypeScript
 **Backend (in progress):** Spring Boot, REST APIs
-**Frontend (in progress):** Angular, React (learning), HTML5, CSS3
+**Frontend (in progress):** React (learning), HTML5, CSS3
 **Database:** MySQL
 **Tools:** Git, IntelliJ IDEA, VS Code, Postman
 
 ## 📌 Pinned Projects
 - **[Cookify](https://github.com/MahimaP98/cookify)** — Recipe-sharing platform (JS, HTML, CSS, Bootstrap)
-- **Expense Splitter** — Java console app: OOP(to be done).
+- **Expense Tracker** — React Frontend App(To be Done).
 
 ## 💼 Background
 3+ years as a Software Developer, previously at New India Cooperative Bank Ltd (Junior Software Engineer → Product Developer), built Angular-based document management, KYC, and banking transaction modules with API integration in Modifying Banking Product Interface. Prior experience includes interface scripting, database modifications, and product interface testing for HL7 healthcare messaging systems at eClinicalWorks.
@@ -29,4 +29,4 @@ I've spent 3+ years building production frontend systems in banking and healthca
 - Location: Mumbai, India
 
 ---
-*Actively building and open to Java Full-Stack / Java Developer opportunities.*
+*Actively building and open to Java Full-Stack / Java + React Developer opportunities.*
