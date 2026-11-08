@@ -26,4 +26,5 @@ I've spent 3+ years building and supporting enterprise banking applications: int
 
 ## 📫 Connect
 [LinkedIn](https://www.linkedin.com/in/mahimaprajapati98) · mahimaprajapati98@gmail.com
+
 *Actively building and open to Java Full-Stack / Java + React Developer opportunities.*
